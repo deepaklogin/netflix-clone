@@ -1,5 +1,5 @@
 ## Note:-
-This is clone of netflix which is desgin by reactjs language where the data come from API.<br/>
+This is single page clone of netflix which is desgin by reactjs language where the data come from API.<br/>
 Language:-React Js,css.
 
 
